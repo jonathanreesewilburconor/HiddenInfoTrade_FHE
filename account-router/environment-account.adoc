@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\account-router\environment-account.adoc
+// Generated at: 2025-10-16T08:49:29.473Z
